@@ -16,6 +16,7 @@ O sistema de denúncia é bem simples.
  4- No dashboard vai ter as opções de criar, deletar, visualizar e mudar o status da denúncia ( um CRUD  ).
  
  ### Features
+- [x] Font-End
 - [ ] Falta
 - [ ] Mapa do Brasil de Impostos
 
