@@ -31,7 +31,9 @@ Depos de um "npm start"
 ## Algumas Imgens do site :
 
 ### Home
-![image](https://user-images.githubusercontent.com/80328167/135344753-e1d83477-3e50-4d61-90ed-574fbf94a08e.png)
+![Home](https://user-images.githubusercontent.com/80328167/173201751-1d4b4643-1ebe-4cdf-8ab7-bf2e94f3959d.PNG)
+![home2](https://user-images.githubusercontent.com/80328167/173201752-502c9b0b-ccea-4327-915b-1001af29a7c2.PNG)
+![home3](https://user-images.githubusercontent.com/80328167/173201753-e7afce2f-f678-4f55-ab6a-122e58ce572c.PNG)
 
 ### Pagina Mapa ineterativo
 Não feito.
