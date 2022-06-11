@@ -9,11 +9,8 @@ Bem-Vindo ao Help impostos
 Esse website tem como objetivo auxiliar e facilitar SITE PARA AJUDAR  A NOVOS EMPREENDEDORES.
 
 ## Como funciona a utilização do site?
-O sistema de denúncia é bem simples.
- 1- O usuário vai entrar no site e fazer o cadastro.
- 2-Após fazer o cadastro o usuário faz o login no site.
- 3-A primeira tela a será um dashboard no qual poderá fazer todo o gerenciamento de suas denúncias.
- 4- No dashboard vai ter as opções de criar, deletar, visualizar e mudar o status da denúncia ( um CRUD  ).
+Esse website foi idealizado para ajudar emprendedor para na criação de 
+empresas atravez de um mapa interativo.
  
  ### Features
 - [x] Font-End
